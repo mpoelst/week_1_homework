@@ -5,3 +5,5 @@
 .underline{
 	text-decoration: underline;
 }
+
+.line h2,h3{display: inline;}
