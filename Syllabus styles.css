@@ -7,3 +7,16 @@
 }
 
 .line h2,h3{display: inline;}
+
+
+  td {
+    border: thin red solid;
+  }
+
+  th {
+    border: thin blue solid;
+  }
+
+ .week th {
+  	border: thin red solid;
+  
